@@ -14,9 +14,9 @@ Welcome to my GitHub profile! I'm a technology enthusiast passionate about softw
 
 ### 📊 Power BI Projects
 - **Global Superstore Project**: My report will be created from 3 main pages and their Drillthrough and Tooltip pages.
-• Product-Based Analysis
-• Customer-Based Analysis
-• Region-Based Analysis
+***• Product-Based Analysis***
+***• Customer-Based Analysis***
+***• Region-Based Analysis***
 ---
 
 ### 🔗 Connect with Me
