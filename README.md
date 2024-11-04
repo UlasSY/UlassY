@@ -3,7 +3,11 @@
 ## Hi, I'm Ulaş 👋
 ### Data Enthusiast | EDA & Power BI Projects
 
-Welcome to my GitHub profile! I'm a technology enthusiast passionate about software engineering and data analysis. Here are some of my works:
+Welcome to my GitHub profile! I'm a technology enthusiast passionate about data analysis and data science. 
+I am a dedicated Data Scientist and Technical Consultant with a strong background in software support and data analysis. With expertise in technologies such as Python, SQL (PostgreSQL), NumPy, Pandas, API, and JavaScript, I aim to build impactful solutions that drive business insights and technical performance.
+I have experience working with companies like Apple IMC Turkey and INNOVA BILISIM, where I solved complex technical issues and created detailed reports for clients.
+Currently, I'm focused on advancing my skills in Data Science and contributing to open-source projects.
+Here are some of my works:
 
 ---
 
