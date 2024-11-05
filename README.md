@@ -1,10 +1,11 @@
-# 📊 Data Analyst | 🌍 Data Scientist | 💻 Tech Innovator  | 📫 Skilled in Python, Pandas, Power BI, Tableau & SQL |
+# 💻 Tech Innovator | 🌍 Data Scientist | 📊 Data Analyst | 🐍 Python | 📈 Power BI | 🔷 Tableau 
 
 ## My Summary
 ### Hi, I'm Ulaş 👋
 
 ✨ Welcome to my GitHub profile!   
-🌍 I'm a technology enthusiast passionate about data analysis and data science.   
+
+🌍 I'm a technology enthusiast passionate about data analysis and data science.  
 ⚡ I am a dedicated **Data Scientist** and **Technical Consultant** with a strong background in **software support** and **data analysis**.   
 🌱 I aim to build impactful solutions that drive business insights and technical performance such as **Python,** **SQL** **(PostgreSQL),** **NumPy**, **Pandas,** **API,** and **JavaScript.**     
 🔭 I have experience working with companies like **Apple IMC Turkey** and **INNOVA BILISIM,** where I solved complex technical issues and created detailed reports for clients.   
