@@ -1,4 +1,4 @@
-# 💻 Tech Innovator | 🌍 Data Scientist | 📊 Data Analyst | 🐍 Python | 📈 Power BI | 🔷 Tableau 
+# 💻 Tech Innovator |  🌍 Data Scientist |  📊 Data Analyst |  🐍 Python |  📈 Power BI |  🔷 Tableau 
 
 ## My Summary
 ### Hi, I'm Ulaş 👋
