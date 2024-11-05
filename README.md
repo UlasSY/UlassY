@@ -5,7 +5,8 @@
 
 ✨ Welcome to my GitHub profile!   
 
-🌍 I'm a technology enthusiast passionate about data analysis and data science.  
+💻 I am passionate about solving real-world problems with data.    
+📊 I am aim to expertise in Python, SQL, Machine Learning, and Data Visualization.   
 ⚡ I am a dedicated **Data Scientist** and **Technical Consultant** with a strong background in **software support** and **data analysis**.   
 🌱 I aim to build impactful solutions that drive business insights and technical performance such as **Python,** **SQL** **(PostgreSQL),** **NumPy**, **Pandas,** **API,** and **JavaScript.**     
 🔭 I have experience working with companies like **Apple IMC Turkey** and **INNOVA BILISIM,** where I solved complex technical issues and created detailed reports for clients.   
