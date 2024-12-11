@@ -28,11 +28,12 @@
 
 ---
 ### Data Enthusiast | EDA & Power BI Projects
-###  ![EDA]([https://img.shields.io/badge/EDA-Projects-blue?style=for-the-badge](https://github.com/UlasSY/EDA_Projects))
+### [![EDA](https://img.shields.io/badge/EDA-Projects-blue?style=for-the-badge)](https://github.com/UlasSY/EDA_Projects)
 - **Udemy_Courses Analysis**: Exploratory Data Analysis on Educational Data  
 • This project involves an Exploratory Data Analysis (EDA) conducted on a dataset related to the education sector.   
 • The analysis aims to understand the internal structure of the dataset, detect outliers, and visualize the data distributions.  
- ![EDA](https://img.shields.io/badge/EDA-Projects-blue?style=for-the-badge)   https://github.com/UlasSY/EDA_Projects
+   [Udemy_Courses_Analysis](https://github.com/UlasSY/EDA_Projects)
+
 ###  ![Power BI Projects](https://img.shields.io/badge/Power%20BI%20Projects-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 - **Global Superstore Project**: My report will be created from 3 main pages and their Drillthrough and Tooltip pages.  
 **• Product-Based Analysis**  
