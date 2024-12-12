@@ -34,14 +34,16 @@
 • The analysis aims to understand the internal structure of the dataset, detect outliers, and visualize the data distributions.  
    [Udemy_Courses_Analysis](https://github.com/UlasSY/EDA_Projects/tree/main/Udemy_Courses_Analysis)
 
-- **Online_Retail_Analysis**: Evaluate sales performance, perform customer segmentation and examine sales trends
-• The data set includes billing information, product details, customer identities and country-based sales information provided by an online retail company.
-   [Online_Retail_Analysis](https://github.com/UlasSY/EDA_Projects/tree/main/Online_Retail_Analysis)
+
+- **Online_Retail_Analysis**: Evaluate sales performance, perform customer segmentation and examine sales trends  
+• The data set includes billing information, product details, customer identities and country-based sales information provided by an online retail company.  
+   [Online_Retail_Analysis](https://github.com/UlasSY/EDA_Projects/tree/main/Online_Retail_Analysis)  
+
 
 - **Data_Science_Analysis**
-• In this analysis, we delve into the world of data science jobs to gain insights into the factors that influence employment in this field.
-• Someone considering a career in data science, this analysis aims to provide valuable insights into employment trends.  
-   [Data_Science_Analysis](https://github.com/UlasSY/EDA_Projects/tree/main/Data_Science_Analysis)
+• In this analysis, we delve into the world of data science jobs to gain insights into the factors that influence employment in this field.  
+• Someone considering a career in data science, this analysis aims to provide valuable insights into employment trends.    
+   [Data_Science_Analysis](https://github.com/UlasSY/EDA_Projects/tree/main/Data_Science_Analysis)  
 
 
 
