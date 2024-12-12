@@ -40,8 +40,7 @@
    [Online_Retail_Analysis](https://github.com/UlasSY/EDA_Projects/tree/main/Online_Retail_Analysis)  
 
 
-- **Data_Science_Analysis**
-• In this analysis, we delve into the world of data science jobs to gain insights into the factors that influence employment in this field.  
+- **Data_Science_Analysis**: The world of data science jobs to gain insights into the factors that influence employment in this field.  
 • Someone considering a career in data science, this analysis aims to provide valuable insights into employment trends.    
    [Data_Science_Analysis](https://github.com/UlasSY/EDA_Projects/tree/main/Data_Science_Analysis)  
 
