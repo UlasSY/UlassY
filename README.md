@@ -41,7 +41,7 @@
 - **Data_Science_Analysis**
 • In this analysis, we delve into the world of data science jobs to gain insights into the factors that influence employment in this field.
 • Someone considering a career in data science, this analysis aims to provide valuable insights into employment trends.  
-   [Udemy_Courses_Analysis](https://github.com/UlasSY/EDA_Projects/tree/main/Udemy_Courses_Analysis)
+   [Data_Science_Analysis](https://github.com/UlasSY/EDA_Projects/tree/main/Data_Science_Analysis)
 
 
 
