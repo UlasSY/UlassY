@@ -36,12 +36,12 @@
 
 - **Online_Retail_Analysis**: Evaluate sales performance, perform customer segmentation and examine sales trends
 • The data set includes billing information, product details, customer identities and country-based sales information provided by an online retail company.
-[Online_Retail_Analysis](https://github.com/UlasSY/EDA_Projects/tree/main/Online_Retail_Analysis)
+   [Online_Retail_Analysis](https://github.com/UlasSY/EDA_Projects/tree/main/Online_Retail_Analysis)
 
 - **Data_Science_Analysis**
 • In this analysis, we delve into the world of data science jobs to gain insights into the factors that influence employment in this field.
-• Someone considering a career in data science, this analysis aims to provide valuable insights into employment trends. 
-[Data_Science_Analysis](https://github.com/UlasSY/EDA_Projects/tree/main/Data_Science_Analysis)
+• Someone considering a career in data science, this analysis aims to provide valuable insights into employment trends.
+   [Data_Science_Analysis](https://github.com/UlasSY/EDA_Projects/tree/main/Data_Science_Analysis)
 
 
 ###  ![Power BI Projects](https://img.shields.io/badge/Power%20BI%20Projects-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
