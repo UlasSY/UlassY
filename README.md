@@ -46,11 +46,12 @@
 
 
 
-###  ![Power BI Projects](https://img.shields.io/badge/Power%20BI%20Projects-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+###  [![Power BI Projects](https://img.shields.io/badge/Power%20BI%20Projects-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)](https://github.com/UlasSY/Power_BI_Projects/tree/main)
 - **Global Superstore Project**: My report will be created from 3 main pages and their Drillthrough and Tooltip pages.  
 **• Product-Based Analysis**  
 **• Customer-Based Analysis**  
 **• Region-Based Analysis**  
+   [Global Superstore Project](https://github.com/UlasSY/Power_BI_Projects/tree/main/GlobalSuperstore%20_Project)   
 
 ###  ![Tableau Projects](https://img.shields.io/badge/Tableau%20Projects-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
