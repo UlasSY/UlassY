@@ -63,7 +63,20 @@
 #### Employee Analysis Project  
 Each of these sections is designed to provide actionable insights that can assist in improving employee well-being, optimizing workforce management, and adapting to evolving work environments.  
 
-###  ![Tableau Projects](https://img.shields.io/badge/Tableau%20Projects-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+###  ![Tableau Projects](https://img.shields.io/badge/Tableau%20Projects-E97627?style=for-the-badge&logo=tableau&logoColor=white)(https://github.com/UlasSY/Tableau_Projects)  
+- **E-Commerce_Tableau_Project**  
+# Impact of Delivery Performance by Region and State
+This project analyzes delivery performance across different regions and states through four main analyses:  
+## • Percentage of Successful Deliveries by Region  
+Analyzes the percentage of successful deliveries by region, highlighting which regions have the highest success rates.  
+## • Percentage of Failed Deliveries by State  
+Examines the percentage of failed deliveries by state, identifying which states have higher delivery failure rates.  
+## • Percentage of Late Deliveries by State  
+Analyzes the percentage of late deliveries by state, identifying the reasons behind delayed deliveries.  
+## • Overall Performance by States  
+Reviews the overall delivery performance by state, identifying which states have high overall success rates and which need improvement.  
+[E-Commerce_Tableau_Project](https://github.com/UlasSY/Tableau_Projects/tree/main/E-Commerce_Tableau_Project)
+
 
 ---
 
