@@ -60,13 +60,12 @@
 **• Remote Work Analysis**:  
        Examines the effects of remote work on productivity and job satisfaction.  
    [Impact_of_Remote_Work_on_Mental_Health](https://github.com/UlasSY/Power_BI_Projects/tree/main/Impact_of_Remote_Work_on_Mental_Health)  
-#### Employee Analysis Project
+**Employee Analysis Project**
 Each of these sections is designed to provide actionable insights that can assist in improving employee well-being, optimizing workforce management, and adapting to evolving work environments.  
 
+
 ###  [![Tableau Projects](https://img.shields.io/badge/Tableau%20Projects-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://github.com/UlasSY/Tableau_Projects)
-- **E-Commerce_Tableau_Project**  
-#### Impact of Delivery Performance by Region and State
-This project analyzes delivery performance across different regions and states through four main analyses:  
+- **E-Commerce_Tableau_Project**: This project analyzes delivery performance across different regions and states through four main analyses.    
 **• Percentage of Successful Deliveries by Region**  
 Analyzes the percentage of successful deliveries by region, highlighting which regions have the highest success rates.  
 **• Percentage of Failed Deliveries by State**    
