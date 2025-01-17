@@ -53,17 +53,14 @@
    [Global Superstore Project](https://github.com/UlasSY/Power_BI_Projects/tree/main/GlobalSuperstore%20_Project)
 
 - **Impact_of_Remote_Work_on_Mental_Health**
-- #### Employee Analysis Project
-This project provides a comprehensive analysis of employee data, focusing on three key areas: stress levels, demographics, and the impact of remote work. Each section contains interactive visualizations that allow for detailed insights into the respective topics, aiding in data-driven decision-making for HR and organizational strategies.  
+- ##### Employee Analysis Project
+This project explores key areas of employee data through three main analyses:    
 **• Employee Stress Analysis**:  
-   This section examines the factors contributing to employee stress, identifying potential triggers and analyzing how stress levels vary across different departments, roles, and time periods.
-   
+       Identifies stress factors and trends across different roles and departments.  
  **• Employee Demographics Analysis**:  
-   This section focuses on the demographic distribution within the organization. It provides insights into the workforce's age, gender, tenure, and other key demographic attributes, helping to identify diversity trends and workforce dynamics.
-   
+     Provides insights into workforce demographics, such as age, gender, and tenure.     
 **• Remote Work Analysis**:  
-   This section analyzes the impact of remote work on employees. It covers topics such as productivity, job satisfaction, and work-life balance for remote versus on-site employees, helping to understand the pros and cons of remote working environments.
-
+      Examines the effects of remote work on productivity and job satisfaction.  
 Each of these sections is designed to provide actionable insights that can assist in improving employee well-being, optimizing workforce management, and adapting to evolving work environments.
 
 ###  ![Tableau Projects](https://img.shields.io/badge/Tableau%20Projects-E97627?style=for-the-badge&logo=tableau&logoColor=white)
