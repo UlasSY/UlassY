@@ -55,7 +55,7 @@
 - **Impact_of_Remote_Work_on_Mental_Health**: This project explores key areas of employee data through three main analyses.  
 **• Employee Stress Analysis**:  
        Identifies stress factors and trends across different roles and departments.  
- **• Employee Demographics Analysis**:  
+**• Employee Demographics Analysis**:  
        Provides insights into workforce demographics, such as age, gender, and tenure.    
 **• Remote Work Analysis**:  
        Examines the effects of remote work on productivity and job satisfaction.  
@@ -63,19 +63,19 @@
 #### Employee Analysis Project  
 Each of these sections is designed to provide actionable insights that can assist in improving employee well-being, optimizing workforce management, and adapting to evolving work environments.  
 
-###  ![Tableau Projects](https://img.shields.io/badge/Tableau%20Projects-E97627?style=for-the-badge&logo=tableau&logoColor=white)(https://github.com/UlasSY/Tableau_Projects)  
+###  [![Tableau Projects](https://img.shields.io/badge/Tableau%20Projects-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://github.com/UlasSY/Tableau_Projects)
 - **E-Commerce_Tableau_Project**  
 # Impact of Delivery Performance by Region and State
 This project analyzes delivery performance across different regions and states through four main analyses:  
-## • Percentage of Successful Deliveries by Region  
+**• Percentage of Successful Deliveries by Region**  
 Analyzes the percentage of successful deliveries by region, highlighting which regions have the highest success rates.  
-## • Percentage of Failed Deliveries by State  
+**• Percentage of Failed Deliveries by State**    
 Examines the percentage of failed deliveries by state, identifying which states have higher delivery failure rates.  
-## • Percentage of Late Deliveries by State  
+**• Percentage of Late Deliveries by State**    
 Analyzes the percentage of late deliveries by state, identifying the reasons behind delayed deliveries.  
-## • Overall Performance by States  
+**• Overall Performance by States**    
 Reviews the overall delivery performance by state, identifying which states have high overall success rates and which need improvement.  
-[E-Commerce_Tableau_Project](https://github.com/UlasSY/Tableau_Projects/tree/main/E-Commerce_Tableau_Project)
+[E-Commerce_Tableau_Project](https://github.com/UlasSY/Tableau_Projects/tree/main/E-Commerce_Tableau_Project)  
 
 
 ---
