@@ -46,7 +46,7 @@
 
 - **Google_Play_Store_Procject**: An exploration of mobile app data to uncover the factors that influence app success on the Google Play Store.  
 • For developers, analysts, or marketers, this analysis offers valuable insights into trends in app ratings, installs, and user engagement.  
-   [Data_Science_Analysis](https://github.com/UlasSY/EDA_Projects/tree/main/Google_Play%20Store_Project)
+   [Google_Play_Store_Procject](https://github.com/UlasSY/EDA_Projects/tree/main/Google_Play%20Store_Project)
 
 ###  [![Power BI Projects](https://img.shields.io/badge/Power%20BI%20Projects-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)](https://github.com/UlasSY/Power_BI_Projects/tree/main)
 - **Global Superstore Project**: My report will be created from 3 main pages and their Drillthrough and Tooltip pages.  
