@@ -1,5 +1,5 @@
 <!-- Banner (Opsiyonel: kendi görselini ekleyebilirsin) -->
-![GitHub Banner](https://github.com/UlasSY/UlassY/blob/main/githubbanner.png)  
+![GitHub Banner](https://github.com/UlasSY/UlassY/blob/main/banner.png)  
 
 # 💻 Tech Innovator | 🌍 Data Scientist | 📊 Data Analyst
 
