@@ -32,39 +32,36 @@ I enjoy turning raw data into meaningful insights and creating dashboards to sup
 ## 📊 Projects
 
 ### EDA Projects
+
 - **[Udemy Courses Analysis](https://github.com/UlasSY/EDA_Projects/tree/main/Udemy_Courses_Analysis)**  
-  Exploratory Data Analysis on educational datasets to identify trends and outliers.  
-  ![Udemy Courses Analysis](https://via.placeholder.com/800x400.png?text=Udemy+Courses+Analysis+Preview)
+  Exploratory Data Analysis on educational datasets to identify trends and outliers.
 
 - **[Online Retail Analysis](https://github.com/UlasSY/EDA_Projects/tree/main/Online_Retail_Analysis)**  
-  Customer segmentation, sales trend analysis, and revenue insights.  
-  ![Online Retail Analysis](https://via.placeholder.com/800x400.png?text=Online+Retail+Analysis+Preview)
+  Customer segmentation, sales trend analysis, and revenue insights.
 
 - **[Google Play Store Project](https://github.com/UlasSY/EDA_Projects/tree/main/Google_Play%20Store_Project)**  
-  Analysis of app success factors, ratings, installs, and user engagement trends.  
-  ![Google Play Store Project](https://via.placeholder.com/800x400.png?text=Google+Play+Store+Project+Preview)
+  Analysis of app success factors, ratings, installs, and user engagement trends.
 
 - **[Data Science Analysis](https://github.com/UlasSY/EDA_Projects/tree/main/Data_Science_Analysis)**  
-  Insights into employment trends in the data science field.  
-  ![Data Science Analysis](https://via.placeholder.com/800x400.png?text=Data+Science+Analysis+Preview)
+  Insights into employment trends in the data science field.
 
 ---
 
 ### Power BI Projects
+
 - **[Global Superstore Project](https://github.com/UlasSY/Power_BI_Projects/tree/main/GlobalSuperstore%20_Project)**  
-  Product, Customer, and Region-based analysis with interactive Drillthrough & Tooltip pages.  
-  ![Global Superstore Project](https://via.placeholder.com/800x400.png?text=Global+Superstore+Project+Preview)
+  Product, Customer, and Region-based analysis with interactive Drillthrough & Tooltip pages.
 
 - **[Impact of Remote Work on Mental Health](https://github.com/UlasSY/Power_BI_Projects/tree/main/Impact_of_Remote_Work_on_Mental_Health)**  
-  Employee stress, demographics, and productivity analysis with actionable insights.  
-  ![Impact of Remote Work](https://via.placeholder.com/800x400.png?text=Impact+of+Remote+Work+Preview)
+  Employee stress, demographics, and productivity analysis with actionable insights.
 
 ---
 
 ### Tableau Projects
+
 - **[E-Commerce Tableau Project](https://github.com/UlasSY/Tableau_Projects/tree/main/E-Commerce_Tableau_Project)**  
-  Delivery performance analysis by region and state, highlighting key success and failure areas.  
-  ![E-Commerce Tableau Project](https://via.placeholder.com/800x400.png?text=E-Commerce+Tableau+Project+Preview)
+  Delivery performance analysis by region and state, highlighting key success and failure areas.
+
 
 
 ---
