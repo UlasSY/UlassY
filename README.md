@@ -1,5 +1,5 @@
 <!-- Banner (Opsiyonel: kendi görselini ekleyebilirsin) -->
-![GitHub Banner](https://via.placeholder.com/1200x200.png?text=Ulas+S.+Yolal+-+Data+Analyst)  
+![GitHub Banner](https://via.placeholder.com/1200x200.png?text=Ulas+S.+Yolal+-+Data+Analyst)    
 
 # 💻 Tech Innovator | 🌍 Data Scientist | 📊 Data Analyst
 
@@ -62,7 +62,7 @@ I enjoy turning raw data into meaningful insights and creating dashboards to sup
 ---
 
 ## 🔗 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/ulas-yolal/)  
+- [LinkedIn](https://www.linkedin.com/in/ulas-s-yolal/)    
 - 📧 yolalulas@gmail.com  
 
 Feel free to explore my projects and reach out!
