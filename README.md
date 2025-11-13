@@ -1,5 +1,5 @@
 <!-- Banner (Opsiyonel: kendi görselini ekleyebilirsin) -->
-![GitHub Banner](https://via.placeholder.com/1200x200.png?text=Ulas+S.+Yolal+-+Data+Analyst)    
+![GitHub Banner](https://raw.githubusercontent.com/UlasSY/repo-adi/main/banner.png)     
 
 # 💻 Tech Innovator | 🌍 Data Scientist | 📊 Data Analyst
 
