@@ -68,7 +68,7 @@ I enjoy turning raw data into meaningful insights and creating dashboards to sup
 - **[E-Commerce Tableau Project](https://github.com/UlasSY/Tableau_Projects/tree/main/E-Commerce_Tableau_Project)**  
   Delivery performance analysis by region and state, highlighting key success and failure areas.  
   ![E-Commerce Tableau Project](https://github.com/UlasSY/Tableau_Projects/raw/main/E-Commerce_Tableau_Project/ecommerce_preview.gif)
-``
+
 
 
 
