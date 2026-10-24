@@ -59,6 +59,17 @@ Currently, I'm continuously improving my skills in **Data Analysis, Data Science
 
 # 📊 Projects
 
+## 📊 Featured Project
+
+### Olist E-Commerce: Regional Order and Logistics Performance Analysis
+
+Regional e-commerce order volume, average order value, and delivery performance analysis using Python and Pandas.
+
+- **Technologies:** Python, Pandas, NumPy, Matplotlib, SQLAlchemy, PostgreSQL
+- **Focus:** Data Analysis, E-commerce Analytics, Logistics Performance
+
+**[View Project →](https://github.com/UlasSY/Olist-Ecommerce-Delivery-Analysis)**
+
 ## 🗄️ SQL Projects
 
 ### Olist E-Commerce — SQL Case Study
